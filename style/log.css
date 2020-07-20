@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+   background-color: black;
+    font-family:Verdana, Geneva, sans-serif	
+
+}
+legend{
+    text-align: center;
+    background-color: inherit;
+}
+fieldset {
+    border: 0;
+}
+
+.box{
+    position: relative;
+    top: 150px;
+    width: 500px;
+    height: 300px;
+    padding: 15px;
+    border: 1px ;
+    margin: -50px auto;
+    background-color: white;
+    border-radius: 15px;
+}
+
+label{
+    background-color: inherit;
+}
+input{
+    background-color: rgb(233, 233, 233);
+
+}
+
+.p1{
+    position: relative;
+    top: 200px;
+    text-align: center;
+    background-color: inherit; 
+    font-size: 15px;   
+}
+a{
+    background-color: inherit;
+}
+
+p{
+    background-color: inherit;
+}
+.bnt{
+    position: relative;
+    left: 400px;
+    top: 168px;
+    background-color:rgb(129, 196, 129); 
+    padding: 5px 18px;
+    border: 0;
+    color: white;
+    cursor: pointer;
+   
+    
+}
+
+.log{
+    position: relative;
+    left: 80px;
+    top:80px;
+    background-color:inherit;
+    width: 400px;
+}
+.i1{
+    width: 250px;
+    border-radius: 5px;
+
+}
+.i2{
+    position: relative;
+    left: 11px;
+    margin-top: 3px;
+    width: 250px;
+    border-radius: 5px;
+
+}
